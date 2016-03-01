@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Device Manager</string>
+    <string name="android_media_link">Use Android Media</string>
+    <string name="gopro_link">Control Gopro Media</string>
 </resources>
