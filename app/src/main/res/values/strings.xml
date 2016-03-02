@@ -1,5 +1,11 @@
 <resources>
-    <string name="app_name">Device Manager</string>
+    <string name="app_name">Iron Lab Device Manager</string>
+    <string name="app_intro">How would you like to stream?</string>
     <string name="android_media_link">Use Android Media</string>
     <string name="gopro_link">Control Gopro Media</string>
+    <string name="btnIntend">Take (big) Picture</string>
+    <string name="btnIntendS">Take (small) Picture</string>
+    <string name="btnIntendV">Take Video</string>
+    <string name="cannot">Cannot</string>
+    <string name="album_name">CameraSample</string>
 </resources>
